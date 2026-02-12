@@ -49,7 +49,8 @@ The objective of this project is to analyze operational efficiency and revenue p
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard Preview](preview.png)
+
 
 ---
 
